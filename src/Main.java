@@ -11,7 +11,6 @@ public class Main {
         student1.addCourse(course2);
         student1.addCourse(course3);
 
-        student2.addCourse(course2);
 
         student3.addCourse(course3);
         System.out.println(student1.getCourses());
